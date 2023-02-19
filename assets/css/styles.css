@@ -5,6 +5,7 @@
 :root {
   --header-height: 3rem;
   
+  
   /*========== Colors ==========*/
   --title-color: #0B0A0A;
   --text-color: #403A3A;
@@ -270,6 +271,7 @@ img {
     z-index: var(--z-fixed);
     transition: .3s;
   }
+
 }
 
 .nav__logo, 
